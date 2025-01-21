@@ -1,0 +1,6 @@
+.side-bar {
+    background-image: url("../assets/bg-sidebar-desktop.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
