@@ -231,7 +231,7 @@ export default function Main() {
   console.log(name, email, phone);
   return (
     <main>
-      <div className=" m-auto mt-[8rem] flex flex-wrap gap-10 py-5 px-10 bg-white shadow rounded-[10px] h-auto md:w-[50rem] md:h-[30rem]">
+      <div className=" m-auto mt-[8rem] flex flex-wrap gap-10 py-5 px-10 bg-white shadow rounded-[10px] h-auto md:w-[55rem] md:h-[30rem]">
         <div className=" side-bar flex flex-wrap border border-white gap-5 p-5 rounded-[10px] md:flex flex-col w-full md:w-auto">
           <div className=" flex flex-row gap-4">
             <button
